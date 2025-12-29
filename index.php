@@ -21,39 +21,31 @@ require('templates/header.php');
             </div>
         </header>
         <!-- Features section-->
-         <div class="text-center my-5">
-         <h1>Pourquoi Kay's Food</h1>
-         <h3>Une passion pour la gastronomie et un engagement envers l'excellence</h3>
-         </div>
+         <div class="bg-light py-5 border-bottom">
+            <br>
+            <div class="text-center mb-5">
+                    <h2 class="fw-bolder">Pourquoi Kay's Food</h2>
+                    <p class="lead mb-0">Une passion pour la gastronomie et un engagement envers l'excellence</p>
+            </div>
+        </div>
         <section class="py-5 border-bottom" id="features">
             <div class="container px-5 my-5">
                 <div class="row gx-5">
                     <div class="col-lg-4 mb-5 mb-lg-0">
                         <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-collection"></i></div>
-                        <h2 class="h4 fw-bolder">Featured title</h2>
-                        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
-                        <a class="text-decoration-none" href="#!">
-                            Call to action
-                            <i class="bi bi-arrow-right"></i>
-                        </a>
+                        <h2 class="h4 fw-bolder">Cuisine raffinée</h2>
+                        <p>Des plats créatifs préparés avec passion par notre chef étoilé.</p>
+                        
                     </div>
                     <div class="col-lg-4 mb-5 mb-lg-0">
                         <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-building"></i></div>
-                        <h2 class="h4 fw-bolder">Featured title</h2>
-                        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
-                        <a class="text-decoration-none" href="#!">
-                            Call to action
-                            <i class="bi bi-arrow-right"></i>
-                        </a>
+                        <h2 class="h4 fw-bolder">Produits premium</h2>
+                        <p>Ingrédients frais et locaux sélectionnés avec soin chaque jour.</p>
                     </div>
                     <div class="col-lg-4">
                         <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-toggles2"></i></div>
-                        <h2 class="h4 fw-bolder">Featured title</h2>
-                        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
-                        <a class="text-decoration-none" href="#!">
-                            Call to action
-                            <i class="bi bi-arrow-right"></i>
-                        </a>
+                        <h2 class="h4 fw-bolder">Service impeccable</h2>
+                        <p>Une équipe dévouée pour une expérience culinaire mémorable.</p>
                     </div>
                 </div>
             </div>
@@ -62,8 +54,8 @@ require('templates/header.php');
         <section class="bg-light py-5 border-bottom">
             <div class="container px-5 my-5">
                 <div class="text-center mb-5">
-                    <h2 class="fw-bolder">Pay as you grow</h2>
-                    <p class="lead mb-0">With our no hassle pricing plans</p>
+                    <h2 class="fw-bolder">Ce que disent nos clients</h2>
+                    <p class="lead mb-0">Des avis authentiques de nos visiteurs</p>
                 </div>
                 <div class="row gx-5 justify-content-center">
                     <!-- Pricing card free-->
