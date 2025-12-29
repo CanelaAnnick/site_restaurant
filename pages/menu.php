@@ -1,12 +1,15 @@
 <?php 
-require('templates/header.php');
+require('../templates/header.php');
+?>
+
+
+<?php
+echo "Menu";
 ?>
 
 
 
 
-
-
 <?php 
-require('templates/footer.php');
+require('../templates/footer.php');
 ?>
