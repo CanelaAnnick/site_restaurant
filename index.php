@@ -12,8 +12,8 @@ require('templates/header.php');
                             <h1 class="display-5 fw-bolder text-white mb-2">L'excellence Gastronomique</h1><br>
                             <p class="lead text-white mb-4" style="font-weight: bold; font-color: white";>Découvrez une expérience culinaire unique où chaque plat raconte une histoire</p><br><br><br>
                             <div class="d-grid gap-3 d-sm-flex justify-content-sm-center">
-                                <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#features">Découvrir le menu</a>
-                                <a class="btn btn-outline-light btn-lg px-4" href="#!">Réserver une table</a>
+                                <a class="btn btn-primary btn-lg px-4 me-sm-3" href="/site_restaurant/pages/menu.php">Découvrir le menu</a>
+                                <a class="btn btn-outline-light btn-lg px-4" href="/site_restaurant/pages/reservation.php">Réserver une table</a>
                             </div>
                         </div>
                     </div>

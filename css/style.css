@@ -2,6 +2,20 @@ body {
   padding-top: 70px; /* Ajuste selon la hauteur réelle de ta navbar */
 }
 
+.btn-glow {
+  background-color: #5bc0de; /* Bleu clair Bootstrap */
+  border: none;
+  color: white;
+  box-shadow: 0 0 5px rgba(91, 192, 222, 0.5);
+  transition: all 0.3s ease-in-out;
+}
+
+.btn-glow:hover {
+  background-color: #31b0d5;
+  box-shadow: 0 0 15px rgba(91, 192, 222, 0.8);
+  transform: scale(1.05);
+}
+
 
 .right{
     margin-right: 0;
@@ -42,18 +56,9 @@ body {
   }
 
       /*icons*/
-  .feature {
-    text-align: center;
-    margin: 20px;
-  }
-  .feature img {
-    margin-bottom: 10px;
-  }
   
   body {
     padding-top: 70px; /* Ajuste selon la hauteur réelle de ta navbar */
   }
   
-
-
   
