@@ -1,3 +1,8 @@
+body {
+  padding-top: 70px; /* Ajuste selon la hauteur réelle de ta navbar */
+}
+
+
 .right{
     margin-right: 0;
 }
@@ -35,7 +40,20 @@
     position: relative;
     z-index: 2;
   }
+
+      /*icons*/
+  .feature {
+    text-align: center;
+    margin: 20px;
+  }
+  .feature img {
+    margin-bottom: 10px;
+  }
   
+  body {
+    padding-top: 70px; /* Ajuste selon la hauteur réelle de ta navbar */
+  }
   
+
 
   
