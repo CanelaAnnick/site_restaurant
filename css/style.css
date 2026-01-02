@@ -26,10 +26,6 @@ body {
 .fw-bolder {
     font-weight: bolder !important;
   }
-  .btn.btn-lg.btn-light {
-    border-radius: 27px !important;
-    padding: 15px;
-  }
   
   .header-bg {
     background-image: url('../photos/accueil-decoration.png'); /* adapte le chemin */
